@@ -11,3 +11,6 @@
 Датасет:
 СС100 Dataset - https://metatext.io/datasets-list/russian-language
 
+Структура: 
+Нейронная сеть - ENCODER DECODER (LSTM)
+
